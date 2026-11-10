@@ -32,3 +32,8 @@ data/processed/classification/
 *before_*.py
 *.backup
 *.backup_*
+
+# Local backup files
+docs/backup_before_final_update/
+requirements_before_cuda.txt
+scripts/*.before_*.py
