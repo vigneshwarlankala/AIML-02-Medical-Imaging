@@ -1,0 +1,6 @@
+outs:
+- md5: 221b2ece8f78cdc6a65209598f00381a.dir
+  size: 424749475
+  nfiles: 41
+  hash: md5
+  path: mri

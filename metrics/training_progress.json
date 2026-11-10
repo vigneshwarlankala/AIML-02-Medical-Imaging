@@ -1,0 +1,19 @@
+﻿{
+    "dataset":  {
+                    "train":  36484,
+                    "validation":  7818,
+                    "csv_records":  112120,
+                    "valid_image_records":  52120,
+                    "test":  7818,
+                    "missing_image_records":  60000
+                },
+    "mean_validation_auc":  0.7182,
+    "validation_loss":  0.1693,
+    "project":  "AIML-02 Medical Imaging System",
+    "target_epochs":  30,
+    "training_loss":  0.1688,
+    "task":  "14-class multi-label chest X-ray classification",
+    "model":  "DenseNet121",
+    "latest_recorded_epoch":  4,
+    "status":  "INTERIM - training not yet confirmed complete"
+}

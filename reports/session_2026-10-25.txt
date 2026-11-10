@@ -1,0 +1,20 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261025230250
+Username: DESKTOP-Q1O5G0I\priyanka
+RunAs User: DESKTOP-Q1O5G0I\priyanka
+Configuration Name: 
+Machine: DESKTOP-Q1O5G0I (Microsoft Windows NT 10.0.22631.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\priyanka\AppData\Local\Programs\Microsoft VS Code\2a59476c9b\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 12748
+PSVersion: 5.1.22621.6133
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.6133
+BuildVersion: 10.0.22621.6133
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is D:\Internship_AI_ML_Projects\AIML-02-Medical-Imaging\reports\session_2026-10-25.txt
+]633;D;0]633;A]633;P;Cwd=D:\x5cInternship_AI_ML_Projects\x5cAIML-02-Medical-ImagingPS D:\Internship_AI_ML_Projects\AIML-02-Medical-Imaging> ]633;B

@@ -1,0 +1,34 @@
+﻿# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# DVC local cache
+.dvc/cache/
+
+# Raw datasets
+data/raw/
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Local audit database
+data/audit_log.db
+
+# Local dataset contents
+data/processed/classification/
+
+# Historical backups
+*before_*.py
+*.backup
+*.backup_*

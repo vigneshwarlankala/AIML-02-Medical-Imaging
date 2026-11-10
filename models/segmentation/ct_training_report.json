@@ -1,0 +1,74 @@
+{
+  "dataset": "Task06_Lung",
+  "epochs_completed": 10,
+  "target_epochs": 10,
+  "total_cases": 11,
+  "training_cases": 8,
+  "validation_cases": 3,
+  "patch_size": 32,
+  "patches_per_case": 4,
+  "best_validation_patch_dice": 0.4166666666666667,
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 1.6140327267348766,
+      "training_patch_dice": 0.020297484870455962,
+      "validation_patch_dice": 0.0001367610714771616
+    },
+    {
+      "epoch": 2,
+      "training_loss": 1.4489935971796513,
+      "training_patch_dice": 0.034304623037280685,
+      "validation_patch_dice": 0.0
+    },
+    {
+      "epoch": 3,
+      "training_loss": 1.3467996194958687,
+      "training_patch_dice": 0.013103726915874775,
+      "validation_patch_dice": 0.25
+    },
+    {
+      "epoch": 4,
+      "training_loss": 1.26768808811903,
+      "training_patch_dice": 0.22173525134740263,
+      "validation_patch_dice": 0.006884247742411388
+    },
+    {
+      "epoch": 5,
+      "training_loss": 1.2118196859955788,
+      "training_patch_dice": 0.1645661350429171,
+      "validation_patch_dice": 0.014491251376888127
+    },
+    {
+      "epoch": 6,
+      "training_loss": 1.145304448902607,
+      "training_patch_dice": 0.31832425813457355,
+      "validation_patch_dice": 0.2180093206354018
+    },
+    {
+      "epoch": 7,
+      "training_loss": 1.098255418241024,
+      "training_patch_dice": 0.34120201872910383,
+      "validation_patch_dice": 0.08386902271384349
+    },
+    {
+      "epoch": 8,
+      "training_loss": 1.072540432214737,
+      "training_patch_dice": 0.30016101340624624,
+      "validation_patch_dice": 0.4166666666666667
+    },
+    {
+      "epoch": 9,
+      "training_loss": 1.0487027931958437,
+      "training_patch_dice": 0.36647684807795056,
+      "validation_patch_dice": 0.08349056603773586
+    },
+    {
+      "epoch": 10,
+      "training_loss": 1.0210810992866755,
+      "training_patch_dice": 0.31553230195536897,
+      "validation_patch_dice": 0.1820526585732246
+    }
+  ],
+  "evaluation_note": "Patch-level prototype evaluation only."
+}
